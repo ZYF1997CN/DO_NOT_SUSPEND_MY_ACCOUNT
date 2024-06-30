@@ -19,7 +19,11 @@ Thanks,
 GitHub Support
 
 This was sent from Github at 7:39 PM, 15/04/2024. Once I saw this email on the next morning, I clicked the link but the webpage told me it was expired.
-# And since then the login page showed me that my account had been suspended.
+# And since then the login page showed me that my account had been suspended. And I quote:
+>Access to your account has been suspended due to a violation of our Terms of Service. Please contact support for more information.
+
+It's illegial for Github users to sleep or what?
+
 # There are many victims like me all around the world:
 1. https://www.reddit.com/r/github/comments/18yelze/github_account_suspended_and_no_response_from/
 2. https://www.reddit.com/r/github/comments/1bp8wzg/account_got_suspended/
